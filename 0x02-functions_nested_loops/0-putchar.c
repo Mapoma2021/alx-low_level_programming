@@ -1,7 +1,11 @@
 #include "main.h"
 /**
- * Code that prints _putchar, followed by a new line
-  */
+ * main - check the code for School students
+ *
+ * Program that prints _putchar, followed by a new line
+ *
+ * Return: always 0 (success)
+ */
 int main(void)
 {
 	char s[] = "_putchar";
